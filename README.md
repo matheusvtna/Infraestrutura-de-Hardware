@@ -14,4 +14,4 @@ A unidade de processamento foi desenvolvida a partir da utilização dos seguint
 
 Detalhes de implementação do processamento e da unidade de controle são explicados no relatório do projeto, presente no mesmo repositório, em PDF.
 
-Equipe: Alexandre de Queiroz Burle, Danilo Vaz MArcolino Alves, Humberto Lopes Ferreira de Souza, Matheus Vinícius Teotonio do Nascimento Andrade e Uanderson Ricardo Ferreira da Silva
+Equipe: Alexandre de Queiroz Burle, Danilo Vaz Marcolino Alves, Humberto Lopes Ferreira de Souza, Matheus Vinícius Teotonio do Nascimento Andrade e Uanderson Ricardo Ferreira da Silva
